@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Table Extractors** project is a Python script designed to extract tables and views from SQL queries (DQL). 
+The **Table Extractors** project is a Python script designed to extract tables and views from SQL queries (DQL), DDL, DML, etc. 
 
 ## Features
 
